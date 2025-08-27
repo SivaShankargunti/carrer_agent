@@ -1,7 +1,3 @@
-That's an excellent project\! It's a great example of using LangChain and LangGraph to build a multi-step, autonomous agent. Here's a documentation draft for your GitHub repository, structured to be clear and informative for others.
-
------
-
 # Career Agent
 
 This project features a career agent built using **LangChain** and **LangGraph**. The agent automates the job search and application process by performing several key tasks: parsing a user's resume, searching for relevant jobs, matching the user's skills to job descriptions, and generating a personalized cover letter.
